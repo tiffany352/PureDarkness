@@ -1,0 +1,4 @@
+name: PureDarkness
+version: ${project.version}
+main: com.tiffnix.puredarkness.PureDarkness
+api-version: 1.17

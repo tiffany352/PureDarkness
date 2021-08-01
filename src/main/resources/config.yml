@@ -1,0 +1,19 @@
+rules:
+  # Each entry has mob, reason, and light-level. Reason defaults to NATURAL, and light-level defaults to 0.
+
+  # Zombie types
+  - mob: ZOMBIE
+  - mob: ZOMBIE_VILLAGER
+  - mob: DROWNED
+  - mob: HUSK
+
+  # Skeleton types
+  - mob: SKELETON
+  - mob: STRAY
+  - mob: WITHER_SKELETON
+
+  # Misc
+  - mob: CREEPER
+  - mob: SPIDER
+  - mob: ENDERMAN
+  - mob: WITCH
